@@ -4,5 +4,5 @@
 ## Install
 ```
 $ npm i --save is-scoped-pkg
-
+```
 # This Package is <b>deprecated</b>, use [is-scoped](https://github.com/sindresorhus/is-scoped) instead.
